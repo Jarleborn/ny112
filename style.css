@@ -1,0 +1,17 @@
+body{
+  background-color: cyan;
+
+}
+
+#text{
+  text-align: center;
+  font-size: 23em;
+  font-family: fantasy;
+}
+
+img{
+  position: fixed;
+
+bottom: 0;
+right: 0;
+}
